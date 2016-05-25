@@ -1,5 +1,10 @@
-# basic-project
+# Java Project
 
-*Showcase basic project*
+*Showcase java project*
+
+**Java 7**
+
+* Java Application
+* Maven
 
 [Ruthel Villaespin] (http://ruthel.villaespin.com)
